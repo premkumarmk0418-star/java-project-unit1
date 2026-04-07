@@ -1,4 +1,4 @@
-package javavariables;
+
 
 public class Instancevariables {
     int firstNumber = 100;
